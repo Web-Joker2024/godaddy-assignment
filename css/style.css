@@ -431,7 +431,7 @@ font-size: 14px;
     margin-top: 70px;
     width: 100%;
      background-color: #FDE9DB;
-     height: fit-content;
+     height: 500px;
      display: flex;
      flex-direction: column;
      align-items: center;
