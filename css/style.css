@@ -387,7 +387,7 @@ border-radius: 5px;
     grid-column: 1/-1;
     align-self:center;
     justify-self:center;
-    width: 1270px;
+    width: auto;
 }
 .growth-img{
     width: auto;
