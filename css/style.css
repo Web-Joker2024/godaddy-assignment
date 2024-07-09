@@ -91,7 +91,6 @@ align-items: center;
 
  .row{
     justify-content: center;
-    align-items: center;
     width: 95%;
     height: 570px;
     margin: 24px auto;
@@ -253,7 +252,6 @@ font-size: 19px;
 }
 .business{
     justify-content: center;
-    align-items: center;
     width: 95%;
     margin: 24px auto;
 display: grid;
@@ -373,7 +371,7 @@ border-radius: 5px;
 
 .growth-container{
         justify-content: center;
-    align-items: center;
+    align-items: center
     width: 90%;
     height: fit-content;
     display: grid;
@@ -436,7 +434,6 @@ font-size: 14px;
 
 .template{
         justify-content: center;
-    align-items: center;
     margin-top: 70px;
     width: 100%;
      background-color: #FDE9DB;
@@ -572,7 +569,6 @@ span{
 }
 .ratings{
         justify-content: center;
-    align-items: center;
     width: 91%;
     height: 600px;
     margin: 50px auto;
