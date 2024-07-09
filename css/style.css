@@ -373,7 +373,7 @@ border-radius: 5px;
     margin: 24px auto;
     margin-top: 198px;
     row-gap: 32px;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3,400px);
     grid-template-rows: 70px 1fr 200px;
     column-gap: 24px;
     row-gap: 24px;
