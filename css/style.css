@@ -385,7 +385,7 @@ border-radius: 5px;
     grid-column: 1/-1;
 } 
 .growth-img{
-    width: auto;
+    width: 500px;
     height: auto;
     grid-column: 1/-1;
     border-radius: 12px;
