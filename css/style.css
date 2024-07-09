@@ -371,6 +371,7 @@ border-radius: 5px;
     height: fit-content;
     display: grid;
     margin-top: 198px;
+    margin: 24px auto;
     row-gap: 32px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 70px 1fr 200px;
@@ -386,7 +387,7 @@ border-radius: 5px;
     grid-column: 1/-1;
     align-self:center;
     justify-self:center;
-    width: 1080px;
+    width: auto;
 }
 .growth-img{
     width: auto;
