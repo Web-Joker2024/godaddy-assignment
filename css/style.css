@@ -253,7 +253,6 @@ font-size: 19px;
 }
 .business{
     width: 95%;
-    height: 600px;
     margin: 24px auto;
 display: grid;
 grid-template-columns: 1fr 1fr;
