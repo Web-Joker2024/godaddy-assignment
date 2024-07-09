@@ -386,6 +386,7 @@ border-radius: 5px;
 .growth-img-container{
     grid-column: 1/-1;
     align-self:center;
+    justify-self:center;
     width:fit-content;
 }
 .growth-img{
