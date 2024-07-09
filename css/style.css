@@ -94,9 +94,8 @@ align-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr 350px;
     grid-template-rows: 100px 1fr;
-    row-gap: 20px;
-    column-gap: 30px;
-
+    row-gap: 24px;
+    column-gap: 32px;
 }
 
 .row-box1{
@@ -107,7 +106,7 @@ align-items: center;
     flex-direction: row;
     align-items: center;
     padding-left: 10px;
-    gap: 10px;
+    gap: 32px;
     position: relative;
 }
 .domain-input{
