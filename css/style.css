@@ -384,11 +384,11 @@ border-radius: 5px;
     grid-column: 1/-1;
 } 
 .growth-img-container{
-    align-self:center;
     grid-column: 1/-1;
+    align-self:center;
 }
 .growth-img{
-    width: 500px;
+    width: fit-content;
     height: auto;
     border-radius: 12px;
 }
