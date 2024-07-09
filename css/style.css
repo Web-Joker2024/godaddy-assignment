@@ -370,7 +370,6 @@ border-radius: 5px;
     width: 90%;
     height: fit-content;
     display: grid;
-    margin: 24px auto;
     margin-top: 198px;
     row-gap: 32px;
     grid-template-columns: 1fr 1fr 1fr;
