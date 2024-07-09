@@ -390,9 +390,10 @@ border-radius: 5px;
     width:fit-content;
 }
 .growth-img{
-    width: 1200px;
+    width: fit-content;
     height: auto;
     border-radius: 12px;
+    max-width:100%;
 }
 .growth-box{
     background-color: #E8EAEB;
