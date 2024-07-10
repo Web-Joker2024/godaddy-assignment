@@ -670,11 +670,10 @@ margin-bottom: 8px;
 .jamila{
     background-image: url(../images/image.png);
     height: 540px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
-    display:grid;
-    grid-template-column: 1fr 1fr;
-    
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
 }
 
