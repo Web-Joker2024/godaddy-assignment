@@ -478,12 +478,14 @@ nav a:last-child {
 .template-txt p {
   font-size: 18px;
 }
+.customers{
+  margin-top: 90px;
+}
 .customers-head {
   font-size: 48px;
   margin-left: 32px;
 }
 .thompson {
-  margin-top: 90px;
   justify-content: center;
   margin: 24px auto;
   width: 95%;
