@@ -9,7 +9,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  gap: 128px;
+  gap: 24px;
 }
 /* NAVIGATION BAR */
 header {
