@@ -483,6 +483,7 @@ nav a:last-child {
   margin-left: 32px;
 }
 .thompson {
+  margin-top: 90px;
   justify-content: center;
   margin: 24px auto;
   width: 95%;
@@ -675,6 +676,7 @@ span {
   border: none;
 }
 .jamila {
+  margin-top: 80px;
   background-image: url(../images/image.png);
   height: 500px;
   background-size: cover;
@@ -710,6 +712,7 @@ span {
   font-size: 16px;
 }
 .faq {
+  margin-top: 90px;
   align-self: center;
   justify-self: center;
   width: fit-content;
@@ -763,6 +766,7 @@ span {
 }
 
 footer {
+  margin-top: 80px;
   color: #fff;
   background-color: #000;
   display: grid;
